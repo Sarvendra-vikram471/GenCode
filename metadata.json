@@ -1,0 +1,11 @@
+{
+  "name": "ZeroCode",
+  "description": "AI-Powered Web Development Platform",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["ai", "web-development", "code-generation", "gemini", "react", "typescript"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/zerocode"
+  }
+}
